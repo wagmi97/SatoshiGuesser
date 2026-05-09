@@ -10,7 +10,7 @@ private key for that wallet — no server, no API, no catch.
 
 Live at **[satoshiguesser.com](https://satoshiguesser.com)** (when deployed).
 
----
+--- 
 
 ## How it works (no blockchain required)
 
